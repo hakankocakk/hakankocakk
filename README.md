@@ -23,7 +23,7 @@
     <img src="https://github.com/user-attachments/assets/8bd1d33d-21a2-4a8e-9be7-906363fc78c4" title="PyTorch" alt="PyTorch" width="88" height="50"/>&nbsp;
     <img src="https://github.com/user-attachments/assets/2a9e07dc-608a-4ace-898d-32e49b598638" title="TensorFlow" alt="TensorFlow" width="78" height="50"/>&nbsp;
     <img src="https://github.com/user-attachments/assets/5402a21a-3ea2-4360-814f-a2e9b0f95791" title="Scikit-Learn" alt="Scikit-Learn" width="113" height="50"/>&nbsp;
-    <img src="https://github.com/user-attachments/assets/ab628a13-268d-4554-90da-fe3d85590c53" title="FastAPI" alt="FastAPI" width="103" height="50"/>&nbsp;
+    <img src="https://github.com/user-attachments/assets/9a6f89e4-fa92-4545-9aa0-e06ba7b87346" title="FastAPI" alt="FastAPI" width="50" height="50"/>&nbsp;
     
     
   </div>
@@ -42,6 +42,4 @@
      <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png" alt="LinkedIn Badge"/>
   </a>
 </div>
-
-![image]()
 
