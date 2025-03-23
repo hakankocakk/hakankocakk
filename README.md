@@ -1,10 +1,15 @@
 ## Hi there 💻
 
+## My name is Hakan Koçak.
+  I am a mathematical engineering student at Yildiz Technical University.
 
 - 🔭 I’m currently working on machine learning, mlops, deep learning and data science.
 - 🌱 I’m currently learning NLP.
 - 💬 Ask me about artificial intelligence. 
 - 📫 How to reach me: khakan924@gmail.com
+
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hakankocakk&theme=gotham&background=)
+![GithHub Stats](https://github-readme-stats.vercel.app/api?username=hakankocakk&theme=tokyonight)
 
 
 <div align="center">
@@ -26,6 +31,12 @@
     <img src="https://github.com/user-attachments/assets/0c8649e2-b16b-4ab5-91f7-7c8362ed695c" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
   </div>
 
+<div align="center" id="badges">
+  <h2>Social Media</h2>
+  <a href="www.linkedin.com/in/hakankocak1">
+     <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png" alt="LinkedIn Badge"/>
+  </a>
+</div>
 
 
 
