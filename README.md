@@ -38,7 +38,7 @@
 
 <div align="center" id="badges">
   <h2>Social Media</h2>
-  <a href="www.linkedin.com/in/hakankocak1">
+  <a href="https://www.linkedin.com/in/hakankocak1" target="_blank">
      <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png" alt="LinkedIn Badge"/>
   </a>
 </div>
